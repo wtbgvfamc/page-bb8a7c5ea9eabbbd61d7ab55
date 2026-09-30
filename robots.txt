@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zh.xn--immtelecom-cn3r594m.com/sitemap.xml
